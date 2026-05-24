@@ -1,0 +1,8 @@
+pandas
+numpy
+geopandas
+matplotlib
+jupyterlab
+ipykernel
+contextily
+osmnx
