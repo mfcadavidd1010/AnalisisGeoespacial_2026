@@ -6,3 +6,8 @@ jupyterlab
 ipykernel
 contextily
 osmnx
+seaborn
+libpysal
+descartes
+pointpats
+sklearns
