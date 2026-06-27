@@ -11,3 +11,6 @@ libpysal
 descartes
 pointpats
 sklearns
+esda
+Pysal
+Statsmodels
